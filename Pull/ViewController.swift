@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         print("first commit after merging plus Storyboard changed")
         
         print("Master")
+        print("DEV1 BRANCH")
+
 
         
 
