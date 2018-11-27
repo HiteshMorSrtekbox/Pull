@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
         print("ready for commit 1")
+        print("changes done by other developer. need to pull before starting work")
     }
 
 }
