@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         print("changes done by other developer. need to pull before starting work")
         print("changes by Hitesh")
         print("changes by raghav")
+        print("changes by raghav")
+        print("first commit after merging plus Storyboard changed")
+
     }
 
 }
