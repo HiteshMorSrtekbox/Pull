@@ -15,6 +15,7 @@ class ViewController: UIViewController {
        
         print("ready for commit 1")
         print("changes done by other developer. need to pull before starting work")
+        print("changes by raghav")
     }
 
 }
